@@ -1,5 +1,8 @@
 _<div style="text-align: right">by Albert Starreveld</div>_
 
+Use this Back-end For Front-end (BFF) to manage user sessions, authenticate users on the server-side, and route traffic to your microservices.
+
++ https://abstarreveld.medium.com/why-you-shouldnt-use-access-tokens-in-your-front-end-any-more-490545665125
 
 ## Our mission
 The development of our product was driven by our clients’ need for a straightforward authentication gateway. Existing market options introduced complexities in terms of pricing and licensing, or proved to be overly intricate for beginners to comprehend and utilize effectively.
